@@ -31,7 +31,7 @@ p {
 }
 
 .photo-overlay {
-    color #fff;
+    color: #fff;
     position: absolute;
     top: 0;
     right: 0;
