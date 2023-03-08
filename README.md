@@ -1,2 +1,2 @@
 # HTML_project
- Basic HTML site
+ Basic HTML site + CSS functions
